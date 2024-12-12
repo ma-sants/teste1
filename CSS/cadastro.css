@@ -1,0 +1,48 @@
+
+body{
+  background-color:   #c0815c;
+  margin: auto;
+}
+h1{
+   color:  #fb8345;
+   text-align: center;
+   margin-top: 1rem;
+   margin-bottom: 1rem;
+   font-family:googleapis;}
+   
+.container{
+ width:24rem;
+ background-color: rgba(255, 255, 255, 0.979);
+ position:absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 10px;
+  align-items: center;
+justify-items: center;
+ 
+}
+
+
+
+.form-control{
+   width: 20rem;
+   height: 2rem;
+   text-align: left;
+   margin-bottom: 7px;
+
+
+
+}
+#botao{
+   margin-top:8px;
+   color: rgb(255, 255, 255);
+   background-color:#fb8345;
+   border-color: black;
+
+}
+
+
+
+
+

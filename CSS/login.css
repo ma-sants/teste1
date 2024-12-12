@@ -1,0 +1,50 @@
+body{ background-color: #c0815c;
+margin: auto;
+}
+    
+
+h1{
+   color: #fb8345;
+   margin-top: 1rem;
+   margin-bottom: 1rem;
+   text-align: center;
+   font-family:googleapis;
+}
+
+.container{
+   background-color:rgba(255, 255, 255, 0.979);
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+   width: 24rem;
+   border-radius: 10px;
+   align-items: center;
+   justify-items: center;
+
+}
+
+/*.form-label{
+color: #a6643d;
+}*/
+
+.form-control{
+height: 30px;
+margin-top: 2px;
+}
+
+
+ #links{
+   text-align: left;
+  
+
+}
+#botao{
+   color: rgb(255, 255, 255);
+    background-color:#fb8345;
+    border-color: black;
+  
+
+}
+
+
